@@ -1,0 +1,14 @@
+
+Data Analysis \
+The dataset highlights recurring customer support issues such as refunds, account deactivation, and verification delays, with neutral sentiment dominating most interactions.
+Common issues include "Cancellations and Returns," handled mainly by junior agents for less complex cases.
+
+Sentiment Analysis \
+Grok achieved 40% accuracy for 10-20 rows, Gemini API 45% for 100 rows, Fireworks API 11% for 300 rows, and Hugging Face 33% for 250 rows.
+Positive sentiments correspond to resolved queries, while negative sentiments arise from delays and unresolved technical issues.
+
+Automation Solution \
+Automated sentiment-based escalation for supervisor attention and batch processing to cluster common issues like refunds and account access.
+Proactively triggered follow-ups for unresolved customer complaints, streamlining workflow and prioritizing recurring problems.
+Generated pre-defined sentiment responses based on customer_sentiment and issue_sub_category to address recurring issues like "Verification requirement" or "Error messages" efficiently.
+Implemented dynamic templates to streamline customer communication, offering consistent and quick replies for common problems.
