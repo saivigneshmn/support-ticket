@@ -1,10 +1,5 @@
 
-1) helpdesk_customer_multi_lang_tickets
-
-- Incidents dominate ticket volume, They account for 42% of all tickets (663 out of 1,566) and have the highest share of high-priority cases (378), requiring focused resource allocation.
-  Balanced priority distribution in requests have 468 tickets with a relatively even spread across priorities, making them an opportunity for process improvements or automation.
-- High-priority tickets demand attention, Across all categories, high-priority tickets are the most common, emphasizing the need for efficient handling systems.
-- Business and ticket type insights, Certain business types, such as Tech Online Stores, exhibit specific ticket patterns that can inform customized support strategies.
+1) 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
