@@ -1,0 +1,17 @@
+
+1) helpdesk_customer_multi_lang_tickets
+
+- Incidents dominate ticket volume, They account for 42% of all tickets (663 out of 1,566) and have the highest share of high-priority cases (378), requiring focused resource allocation.
+  Balanced priority distribution in requests have 468 tickets with a relatively even spread across priorities, making them an opportunity for process improvements or automation.
+- High-priority tickets demand attention, Across all categories, high-priority tickets are the most common, emphasizing the need for efficient handling systems.
+- Business and ticket type insights, Certain business types, such as Tech Online Stores, exhibit specific ticket patterns that can inform customized support strategies.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Bank_Customer_Complaints
+
+- Credit Reporting has the highest complaint volume (1843 complaints), with recurring issues like missing payment history and identity theft. 
+  Common complaint patterns in narratives suggest systemic issues that can be addressed with tailored solutions.
+- Most resolutions from the examples I've done were defaulted to "General Investigation Required," indicating a lack of specific, automated processes for resolving complaints.
+- For Automation Potential, By leveraging the combined column (product + narrative), complaints can be mapped to resolutions using NLP or any keyword-based approaches, enabling 
+  faster and more precise responses to recurring problems.
