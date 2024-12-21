@@ -1,0 +1,7 @@
+- Category 4 dominates with the highest volume of critical tickets (24,523 tickets with Impact 4 and 9,303 with Impact 3), suggesting this category requires immediate operational focus.
+
+- Ticket clustering revealed 5 distinct patterns with 73.9% falling into general support requests (Cluster 1) and 12.3% related to system errors/leave management (Cluster 4).
+
+- Most tickets across categories have high impact (3-4 on a 0-4 scale) but moderate urgency, indicating a need to review urgency classification criteria.
+
+- Solution tried, Basic ml approach using TF-IDF vectorization combined with K-means clustering (n=5) was implemented to automatically identify common ticket patterns and themes, which could be used for automated ticket categorization and routing.
