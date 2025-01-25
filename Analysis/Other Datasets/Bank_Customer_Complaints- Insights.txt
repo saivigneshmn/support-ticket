@@ -1,0 +1,6 @@
+
+- Credit Reporting has the highest complaint volume (1843 complaints), with recurring issues like missing payment history and identity theft. 
+  Common complaint patterns in narratives suggest systemic issues that can be addressed with tailored solutions.
+- Most resolutions from the examples I've done were defaulted to "General Investigation Required," indicating a lack of specific, automated processes for resolving complaints.
+- For Automation Potential, By leveraging the combined column (product + narrative), complaints can be mapped to resolutions using NLP or any keyword-based approaches, enabling 
+  faster and more precise responses to recurring problems.
