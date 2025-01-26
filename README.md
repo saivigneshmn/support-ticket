@@ -56,7 +56,7 @@ This project is designed to automate the resolution of customer support tickets 
 ## **Setup Instructions**
 
 ### **Prerequisites**
-1. Python 3.8 or later.
+1. Python 3.10 or later.
 2. Required Python libraries (install via `pip`):
    ```bash
    pip install pandas numpy openai pinecone-client sentence-transformers transformers ngrok zapier
