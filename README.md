@@ -1,5 +1,3 @@
-Here’s a professional and comprehensive `README.md` file for your project. It provides an overview of the project, its structure, and instructions for setting it up and running it.
-
 ---
 
 # **Automated Support Ticket Resolution System**
