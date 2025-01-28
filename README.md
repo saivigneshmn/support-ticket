@@ -30,6 +30,10 @@ This project is designed to automate the resolution of customer support tickets 
 
 ---
 
+
+![ticket](https://github.com/user-attachments/assets/d167bdc6-392e-4b37-8e44-f5d38deee258)
+
+
 ## **Features**
 
 1. **Automated Ticket Resolution**:
@@ -84,7 +88,7 @@ This project is designed to automate the resolution of customer support tickets 
    ```
 
 3. **Run the Pipeline**:
-   Open the `Final_Pipeline_Support_ticket_draft_.ipynb` notebook in Jupyter or Google Colab and execute the cells.
+   Open the `Final_Pipeline_Support_ticket_api_.ipynb` notebook in Jupyter or Google Colab and execute the cells.
 
 4. **Test the System**:
    - Input a sample support ticket in the notebook.
