@@ -97,6 +97,12 @@ This project is designed to automate the resolution of customer support tickets 
 
 ---
 
+![Screenshot 2025-01-30 124224](https://github.com/user-attachments/assets/05e49ef1-638a-4055-9cde-dd17624ef60e)
+
+![Screenshot 2025-01-30 124236](https://github.com/user-attachments/assets/a243aab1-16ee-431d-9586-ae26a7021f9a)
+
+![Screenshot 2025-01-30 124937](https://github.com/user-attachments/assets/fc72c690-c40a-470a-aaa5-3115c6236135)
+
 ## **Usage**
 
 ### **Input**
