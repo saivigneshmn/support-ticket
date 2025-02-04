@@ -9,8 +9,8 @@ This project is designed to automate the resolution of customer support tickets 
 ## **Project Structure**
 
 ### **Root Directory**
-- **`app/`**: Contains the main pipeline notebook for the support ticket system. ( NOT YET UPDATED! )
-  - `Final_Pipeline_Support_ticket_draft_.ipynb`: The primary notebook for the support ticket pipeline, including Pinecone integration and Zapier email automation.
+- **`app/`**: Contains the main pipeline notebook for the support ticket system.
+  - `Final_Pipeline_Support_ticket_api_.ipynb`: The primary notebook for the support ticket pipeline, including Pinecone integration and Zapier email automation.
     
 - **`data/`**: Contains datasets used for training and testing the system.
   - `helpdesk_customer_multi_lang_tickets.csv`: Multilingual customer support tickets.
